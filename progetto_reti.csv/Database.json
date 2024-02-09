@@ -1,0 +1,26 @@
+{
+  "Danny" : {
+    "_Nickname" : "Daniel",
+    "_Password" : "daniel",
+    "_Score" : 7,
+    "_Friends" : [ "Charlie" ]
+  },
+  "Bob" : {
+    "_Nickname" : "Bob",
+    "_Password" : "bob",
+    "_Score" : 10,
+    "_Friends" : [ "Alice", "Charlie" ]
+  },
+  "Charlie" : {
+    "_Nickname" : "Charlie",
+    "_Password" : "charlie",
+    "_Score" : 15,
+    "_Friends" : [ "Alice", "Bob", "Danny" ]
+  },
+  "Alice" : {
+    "_Nickname" : "Alice",
+    "_Password" : "alice",
+    "_Score" : 5,
+    "_Friends" : [ "Bob", "Charlie" ]
+  }
+}
